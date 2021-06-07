@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-vision-barcode-model:16.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3f0a34ab21f1bcf2a4c177219c0b1ea2/firebase-ml-vision-barcode-model-16.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6451478ac6a5b370088409b1ecd8e126/jetified-firebase-ml-vision-barcode-model-16.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2631fbdd85a867ffb66bbdc19436023/jetified-firebase-ml-vision-barcode-model-16.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2631fbdd85a867ffb66bbdc19436023/jetified-firebase-ml-vision-barcode-model-16.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2631fbdd85a867ffb66bbdc19436023/jetified-firebase-ml-vision-barcode-model-16.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-vision-barcode-model/16.0.2/7b2b904a57fae0b77a9d2faf5284e6788f3223ba/firebase-ml-vision-barcode-model-16.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-ml-natural-language-smart-reply-model:20.0.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/63d68492ecfed80319afb0bf8f8f46d1/firebase-ml-natural-language-smart-reply-model-20.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/787789d657eade7ed9af23bafc516b47/jetified-firebase-ml-natural-language-smart-reply-model-20.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5b95aa8e826d5408a9698688c8758b4/jetified-firebase-ml-natural-language-smart-reply-model-20.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5b95aa8e826d5408a9698688c8758b4/jetified-firebase-ml-natural-language-smart-reply-model-20.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5b95aa8e826d5408a9698688c8758b4/jetified-firebase-ml-natural-language-smart-reply-model-20.0.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-ml-natural-language-smart-reply-model/20.0.7/332f23e340f85d9b498644425fc1888ba6499be1/firebase-ml-natural-language-smart-reply-model-20.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
